@@ -1,0 +1,3 @@
+# sanitize_ddl.py depends only on sqlglot (plus the Python standard library).
+# Verified against sqlglot 30.11.0; the AST/API surface used is stable across these versions.
+sqlglot>=25,<32
